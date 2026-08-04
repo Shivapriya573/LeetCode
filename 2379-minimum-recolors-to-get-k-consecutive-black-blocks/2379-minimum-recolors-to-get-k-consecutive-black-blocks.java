@@ -1,30 +1,27 @@
 class Solution {
     public int minimumRecolors(String blocks, int k) {
-        int white = 0;
+          int sum = 0;
 
-        // Count whites in first window
         for (int i = 0; i < k; i++) {
             if (blocks.charAt(i) == 'W') {
-                white++;
+                sum++;
             }
         }
 
-        int min = white;
+        int min = sum;
 
-        // Slide the window
         for (int i = k; i < blocks.length(); i++) {
-
             if (blocks.charAt(i - k) == 'W') {
-                white--;
+                sum--;
             }
-
             if (blocks.charAt(i) == 'W') {
-                white++;
+                sum++;
             }
 
-            min = Math.min(min, white);
+            min = Math.min(min, sum);
         }
 
         return min;
+        
     }
 }
