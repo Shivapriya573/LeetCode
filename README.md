@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Shivapriya573/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3731-find-missing-elements](https://github.com/Shivapriya573/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -68,4 +69,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shivapriya573/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Design
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Shivapriya573/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Queue
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Shivapriya573/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Counting
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Shivapriya573/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Shivapriya573/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
