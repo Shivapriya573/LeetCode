@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivapriya573/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivapriya573/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shivapriya573/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shivapriya573/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivapriya573/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivapriya573/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Shivapriya573/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivapriya573/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shivapriya573/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivapriya573/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
