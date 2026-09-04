@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shivapriya573/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivapriya573/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivapriya573/LeetCode/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/Shivapriya573/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Shivapriya573/LeetCode/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Shivapriya573/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Nim Game
 |  |
 | ------- |
