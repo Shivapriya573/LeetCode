@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Shivapriya573/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivapriya573/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Shivapriya573/LeetCode/tree/master/1872-stone-game-viii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivapriya573/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivapriya573/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivapriya573/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivapriya573/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Shivapriya573/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivapriya573/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivapriya573/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivapriya573/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivapriya573/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivapriya573/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shivapriya573/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shivapriya573/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivapriya573/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Shivapriya573/LeetCode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Shivapriya573/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shivapriya573/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivapriya573/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shivapriya573/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
