@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivapriya573/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shivapriya573/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivapriya573/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Shivapriya573/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shivapriya573/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -190,10 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shivapriya573/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivapriya573/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shivapriya573/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivapriya573/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivapriya573/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
