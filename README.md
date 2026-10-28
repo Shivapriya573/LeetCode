@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivapriya573/LeetCode/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/Shivapriya573/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivapriya573/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivapriya573/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Shivapriya573/LeetCode/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivapriya573/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Shivapriya573/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivapriya573/LeetCode/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivapriya573/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3731-find-missing-elements](https://github.com/Shivapriya573/LeetCode/tree/master/3731-find-missing-elements) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivapriya573/LeetCode/tree/master/0169-majority-element) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Shivapriya573/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
@@ -214,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivapriya573/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivapriya573/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivapriya573/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
