@@ -1,17 +1,24 @@
 class Solution {
-    public boolean isValid(String str) {
-        if (str.length() % 2 == 1)
-            return false;
+    public boolean isValid(String s) {
 
-        char[] S = str.toCharArray();
-        int i = 0;
+        Stack <Character> stack= new Stack<>();
+        HashMap<Character, Character> map=new HashMap<>();
 
-        for (char c : S)
-            if ((c & 3) != 1)
-                S[i++] = c;
-            else if (i == 0 || ((c - S[--i] + 1) >> 1) != 1)
-                return false;        
+        map.put(')','(');
+        map.put(']','[');
+        map.put('}','{');
 
-        return i == 0;
+        for(char c:s.toCharArray()){
+            if(map.containsValue(c)){
+                    stack.push(c);
+            }
+            else if(map.containsKey(c)){
+                if(stack.isEmpty()||map.get(c)!=stack.pop()){
+                    return false;
+                }
+            }
+        }
+
+        return stack.isEmpty();
     }
 }
