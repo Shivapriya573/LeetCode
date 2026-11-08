@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shivapriya573/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/Shivapriya573/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Shivapriya573/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivapriya573/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivapriya573/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivapriya573/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -121,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shivapriya573/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Shivapriya573/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Shivapriya573/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Shivapriya573/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivapriya573/LeetCode/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/Shivapriya573/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Shivapriya573/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shivapriya573/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivapriya573/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Divide and Conquer
 |  |
@@ -256,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/Shivapriya573/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivapriya573/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shivapriya573/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
