@@ -11,6 +11,16 @@ class MinStack {
         }
 
 
+        // stack.push(val);
+        // if(minStack.isEmpty()){
+        //     minStack.push(val);
+        // }
+        // else{
+        //     minStack.push(Math.min(val,minStack.peek()));
+        // }
+
+       
+
         
     }
     
