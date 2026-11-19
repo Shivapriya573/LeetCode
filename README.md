@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/Shivapriya573/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivapriya573/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shivapriya573/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shivapriya573/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivapriya573/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shivapriya573/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivapriya573/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivapriya573/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivapriya573/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shivapriya573/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3731-find-missing-elements](https://github.com/Shivapriya573/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivapriya573/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shivapriya573/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shivapriya573/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Shivapriya573/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
