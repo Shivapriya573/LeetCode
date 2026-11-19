@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivapriya573/LeetCode/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shivapriya573/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Shivapriya573/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Shivapriya573/LeetCode/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Shivapriya573/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1140-stone-game-ii) |
 | [1267-count-servers-that-communicate](https://github.com/Shivapriya573/LeetCode/tree/master/1267-count-servers-that-communicate) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Shivapriya573/LeetCode/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shivapriya573/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivapriya573/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivapriya573/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Shivapriya573/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Shivapriya573/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Shivapriya573/LeetCode/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivapriya573/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Shivapriya573/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shivapriya573/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
